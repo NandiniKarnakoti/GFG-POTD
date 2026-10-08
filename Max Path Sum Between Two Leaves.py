@@ -1,4 +1,4 @@
-# Problem: Maximum Path Sum in Binary Tree
+# Problem: Max Path Sum Between Two Leaves
 # Difficulty: Medium
 # Date: 7 October 2026
 
