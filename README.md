@@ -1,14 +1,38 @@
-## GFG-POTD 🚀 
-Daily solutions for GeeksForGeeks Problem of the Day in Python.
+# GFG-POTD 🚀
 
-### 📌 About 
-This repository contains my daily solutions to the GeeksForGeeks POTD problems to improve problem-solving, consistency, and DSA skills. 
+My daily solutions to the **GeeksforGeeks Problem of the Day (POTD)**, implemented in Python.
 
-### ⚡ Language Used
-- Python
+## 📌 About
 
-### 🎯 Goal 
-- Maintain daily consistency
-- Strengthen DSA concepts
-- Improve problem-solving approach
-- Track coding progress
+This repository documents my coding journey through daily GeeksforGeeks POTD challenges, focusing on strengthening Data Structures and Algorithms (DSA), logical thinking, and problem-solving skills.
+
+## ⚡ Language Used
+
+- Python 🐍
+
+## 📚 Topics Covered
+
+- Arrays and Strings
+- Searching and Sorting
+- Hashing
+- Recursion
+- Greedy Algorithms
+- Dynamic Programming
+- Trees and Graphs
+
+## 🎯 Goals
+
+- Maintain daily coding consistency
+- Strengthen DSA fundamentals
+- Develop efficient problem-solving approaches
+- Explore optimized solutions and time complexity
+- Track my coding progress
+
+## 🌱 My Learning Journey
+
+Every problem is an opportunity to learn, improve, and grow.
+
+**Consistency over perfection!** 💪
+
+---
+⭐ Feel free to explore my solutions and learning journey.
