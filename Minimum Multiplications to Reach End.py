@@ -1,6 +1,7 @@
 # Problem: Minimum Multiplications to Reach End 
 # Difficulty: Medium 
 # Date: 20 May 2026
+#Language: Python
 
 """
 Problem:
